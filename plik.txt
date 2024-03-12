@@ -2,3 +2,4 @@ My first file
 Next line, 
 Another
 Kolejna linijka, będzie commit z messagem
+Kolejna linijka zmiana na branchu master
