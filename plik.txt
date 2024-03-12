@@ -2,3 +2,4 @@ My first file
 Next line, 
 Another
 Kolejna linijka, będzie commit z messagem
+Najnowsza zmiana w pliku, testujemy niełatwy merge
