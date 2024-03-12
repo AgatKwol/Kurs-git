@@ -1,3 +1,4 @@
 My first file
 Next line, 
 Another
+Kolejna linijka, będzie commit z messagem
