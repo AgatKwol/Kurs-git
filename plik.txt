@@ -1,9 +1,10 @@
-My first file
-Next line, 
-Another
-Kolejna linijka, będzie commit z messagem
+1 My first file
+2 Next line, 
+3 Another
+4 Kolejna linijka, będzie commit z messagem
 <<<<<<< HEAD
-Kolejna linijka zmiana na branchu master
+5 Kolejna linijka zmiana na branchu master
 =======
-Najnowsza zmiana w pliku, testujemy niełatwy merge
->>>>>>> NowyBranch
+6 Najnowsza zmiana w pliku, testujemy niełatwy merge
+7 >>>>>>> NowyBranch
+8 Ponumerowane zmiany
