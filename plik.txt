@@ -8,3 +8,4 @@
 6 Najnowsza zmiana w pliku, testujemy niełatwy merge
 7 >>>>>>> NowyBranch
 8 Ponumerowane zmiany
+9 kolejna zmiana w pliku
